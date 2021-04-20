@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "emote",
+    "name": "Emote Chat",
+    "description": "Shows emojis in chat.",
+
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [ "luaq" ],
+
+    "url": "https://github.com/luaqs/emote-chat-mod",
+    "updateUrl": "https://github.com/luaqs/emote-chat-mod/releases",
+
+    "credits": "Thanks to any creators here: https://github.com/luaqs/emote-chat-mod/graphs/contributors"
+  }
+]
