@@ -53,3 +53,11 @@ processResources
                 exclude 'mcmod.info'
             }
         }
+
+jar {
+    manifest {
+        attributes "FMLCorePlugin": "dev.luaq.emote.asm.ModLoader",
+                "FMLCorePluginContainsFMLMod": true,
+                "ModSide": "CLIENT"
+    }
+}
